@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## AxelSariel
 
-You can use the [editor on GitHub](https://github.com/AxelSariel/axelsariel.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Some stuff here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is just a placeholder stuff. Lorem ipsum dolor sit amet.
 
 ### Markdown
 
