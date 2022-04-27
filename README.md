@@ -4,6 +4,8 @@ Some stuff here.
 
 This is just a placeholder stuff. Lorem ipsum dolor sit amet.
 
+[Presentación LS449](https://axelsariel.github.io/presentacion_trabajo_final_ls449.pdf)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
